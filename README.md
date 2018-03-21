@@ -33,3 +33,6 @@ https://assetstore.unity.com/packages/3d/characters/robots/scifi-enemies-and-veh
 https://boscaceoil.net/
 ## Deep in space background music
 https://assetstore.unity.com/packages/audio/music/electronic/deep-in-space-88071
+## Game Explanation Video
+https://youtu.be/WopJA8AMXao
+
